@@ -1,0 +1,623 @@
+[
+  {
+    "url": "https://www.gucciosteria.com/it",
+    "score": 70,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (13 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "12 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Gucci Osteria",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/giardino/gift-cards",
+    "score": 70,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (13 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Gucci Osteria",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/giardino/menu",
+    "score": 70,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (18 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Menu - Giardino 25",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/menu",
+    "score": 70,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (28 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Menu — Gucci Osteria Firenze",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/reservation",
+    "score": 70,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (13 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Gucci Osteria",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/shop",
+    "score": 70,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (28 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "67 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Shop — Gucci Osteria Firenze",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/shop/food-and-spirits",
+    "score": 70,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (28 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "29 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Food&Spirits ⏤ Gucci Osteria",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/giardino/experiences",
+    "score": 75,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "10 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Experiences — Gucci Giardino 25",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/gift-cards",
+    "score": 75,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "7 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Gift Cards — Gucci Osteria Florence",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/shop/experiences",
+    "score": 75,
+    "issues": [
+      {
+        "type": "error",
+        "message": "Missing <h1> heading"
+      },
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Experiences — Gucci Osteria Florence",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/en/seoul",
+    "score": 80,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (24 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "10 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Homepage ⏤ Gucci Osteria",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/en/tokyo",
+    "score": 80,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (24 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Homepage ⏤ Gucci Osteria",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence",
+    "score": 80,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (21 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "12 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Gucci Osteria Firenze",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/chef",
+    "score": 80,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "Title too short (29 chars). Aim for 50-60 characters."
+      },
+      {
+        "type": "warning",
+        "message": "14 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Chef — Gucci Osteria Florence",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/about",
+    "score": 85,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "8 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "About — Gucci Osteria Florence",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/contact",
+    "score": 85,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Contatti — Gucci Osteria Firenze",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/giardino",
+    "score": 85,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "12 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Giardino - Gucci Osteria Florence",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  },
+  {
+    "url": "https://www.gucciosteria.com/it/florence/giardino/contact-giardino",
+    "score": 85,
+    "issues": [
+      {
+        "type": "warning",
+        "message": "6 image(s) missing alt text"
+      },
+      {
+        "type": "info",
+        "message": "No canonical URL specified"
+      },
+      {
+        "type": "info",
+        "message": "Missing Open Graph meta tags (og:title, og:description)"
+      }
+    ],
+    "passed": [
+      "Title tag is properly configured",
+      "Meta description is properly configured",
+      "Single H1 heading present",
+      "Viewport meta tag present",
+      "Language attribute set"
+    ],
+    "meta": {
+      "title": "Contact Giardino - Gucci Osteria Florence",
+      "description": "Gucci Osteria da Massimo Bottura: a series of Italian, contemporary restaurants, found in world cities with varied and different identities.",
+      "canonical": null,
+      "ogImage": null
+    }
+  }
+]
